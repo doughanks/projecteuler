@@ -1,2 +1,2 @@
 # projecteuler
-Answers to Project Eller problems.
+Answers to Project Euler problems.
